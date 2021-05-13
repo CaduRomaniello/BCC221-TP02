@@ -1,5 +1,5 @@
 # BCC221-TP02
-Segundo trabalho prático da disciplina BCC221
+Segundo trabalho prático da disciplina BCC221 (Programação Orientada a Objetos)
 
 ---
 
